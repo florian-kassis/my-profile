@@ -1,0 +1,61 @@
+/* Colors and fonts */
+body {
+	background-color: rgb(230, 230, 230 );
+	color: rgb(30,30,30);
+}
+body style {
+	width: 500px
+	margin: 40px auto;
+	}
+h1 {
+	letter-spacing: 5px;
+	font-family: calibri;
+
+	}
+ h2 {
+ 	color: green;
+ 	font-family: Calibri;
+ 	font-weight: 100;
+
+ }
+ 
+a { 
+	text-decoration: none; 
+	color: blue;
+	}
+
+a: hover { 
+	color: grey;
+}
+
+.img-circle {
+	border-radius: 50%;
+	margin: 20px 0px;
+	width: 200px; 
+}
+
+.container {
+	width: 700px
+	margin: 40px auto;
+} 
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba (0,0,0,0.1)
+	border-radius: 4px
+	margin: 20px 0px;
+	text-align: center;
+}
+p { color: black;
+ 	font-family: Calibri;
+ 	font-weight: 100;
+	}
+li { color: black;
+ 	font-family: Calibri;
+ 	font-weight: 100;
+	}
+
+.btn.blue {
+	background-color: blue;
+	color: white;
+}
